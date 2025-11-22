@@ -1,57 +1,62 @@
-# 👨‍💻 João Gabriel | Desenvolvedor Backend
+# 👨‍💻 João Gabriel | Backend & DevOps em Formação
 
-🎓 Graduando em Análise e Desenvolvimento de Sistemas na UNIP  
-📅 Previsão de conclusão: Dezembro de 2025  
-🚀 Buscando minha primeira oportunidade na área de TI, com foco em desenvolvimento backend
+🎓 Graduando em ADS (UNIP) • Conclusão: Dez/2025  
+🚀 Buscando oportunidade como Backend ou DevOps Jr  
+🐧 Dev que prefere Linux, containers e automação
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-**Linguagens & Frameworks:**  
-- Java (Java 17) + Spring Boot  
+**Backend:**  
+- Java (Spring Boot)  
 - C# / .NET / ASP.NET  
-- JavaScript / TypeScript  
-- Angular  
+- APIs REST, POO, boas práticas  
+
+**Infra & DevOps:**  
+- Docker, Docker Compose  
+- AWS (EC2, S3, IAM)  
+- Terraform  
+- GitHub Actions (CI/CD)  
+- Linux, Bash  
 
 **Banco de Dados:**  
-- SQL Server, MySQL, PostgreSQL  
-
-**Ferramentas & Tecnologias:**  
-- Git, GitHub  
-- Docker  
-- Swagger, Postman  
-- Linux, Bash, Shell Script básico  
-
----
-
-## 💼 Projetos
-
-- **Tech Innovation (Projeto Grace - USP):**  
-  Participei da criação de um site estático para divulgação de uma escola de tecnologia, desenvolvido como parte do projeto Grace da USP.  
-
-- **App de Cálculo de Médias:**  
-  Desenvolvido em React Native para auxiliar colegas de faculdade a calcular suas médias finais (projeto pessoal).  
-
-- **[Em andamento]** Novo projeto backend em construção (ainda não publicado no GitHub).  
-
----
-
-## 📚 Cursos
-
-- Java 17 + Spring Boot completo  
-- .NET com C#  
-- JavaScript, TypeScript e Angular  
-- Git e GitHub  
+- MariaDB  
+- PostgreSQL  
 - SQL Server  
-*(E outros complementares nas stacks acima)*
+
+**Frontend (apoio):**  
+- React + TypeScript  
+- Angular (conceitos)
+
+---
+
+## 💼 Projetos Relevantes
+
+### 🔧 Projeto Fullstack + Infra (Acadêmico, mas real)
+API .NET + React + MariaDB + Docker + Terraform + AWS + CI/CD.  
+Ambiente completo simulando projeto corporativo com automação, deploy e versionamento organizado.
+
+### 🌐 Tech Innovation (Grace – USP)
+Desenvolvimento de site institucional focado em performance, acessibilidade e navegação limpa.
+
+
+---
+
+## 📚 Formação & Cursos
+- Java + Spring Boot  
+- .NET com C#  
+- React e TypeScript  
+- SQL Server e bancos relacionais  
+- Linux e automação com comandos  
+- Docker e containers  
+- Terraform (infra como código)
 
 ---
 
 ## 📬 Contato
 
-[🔗 LinkedIn](https://www.linkedin.com/in/jgneves/)  
-[💻 GitHub](https://github.com/jgnevess)
+🔗 **LinkedIn:** https://www.linkedin.com/in/jgneves  
+💻 **GitHub:** https://github.com/jgnevess  
 
-📢 Aberto a oportunidades como estagiário ou desenvolvedor backend júnior.  
-Se quiser bater um papo sobre tecnologia ou tiver alguma vaga, é só me chamar!
+📢 Aberto para estágio ou backend/devops júnior.
