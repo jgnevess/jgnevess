@@ -1,10 +1,8 @@
-# 👨‍💻 João Gabriel | Backend & DevOps Jr
+# 👨‍🏫 João Gabriel | Professor de Tecnologia • Backend & DevOps Jr
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNIP  
-🚀 Buscando oportunidade como Backend Jr, DevOps Jr ou Infraestrutura de TI  
-🐧 Desenvolvedor com foco em Linux, APIs, containers, automação e cloud  
-👨‍🏫 Professor de TI, atuando com lógica de programação, redes, cloud, IA e ciência de dados
-
+👨‍🏫 Professor de Tecnologia na rede estadual de ensino de São Paulo  
+🐧 Foco em Linux, APIs, containers, automação e cloud  
 ---
 
 ## 🛠️ Habilidades Técnicas
